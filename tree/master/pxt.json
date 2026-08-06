@@ -1,0 +1,24 @@
+{
+    "name": "la-a-venturas-de-lety-tree-master",
+    "dependencies": {
+        "device": "*",
+        "la-a-venturas-de-lety": "github:arangoarangojoansebastian0-afk/la-a-venturas-de-lety"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
